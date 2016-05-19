@@ -12,8 +12,6 @@ public class CurtoCircuito {
 		
 		System.out.println("falso & verdadeiro " + resultado1);
 		System.out.println("falso && verdadeiro " + resultado2);
-		
-		//TODO: http://pt.slideshare.net/loianeg/curso-java-bsico-exerccios-aulas-11-12-13
 
 	}
 
