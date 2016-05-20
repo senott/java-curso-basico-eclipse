@@ -11,7 +11,7 @@ public class Exercicio06 {
 		System.out.println("Informe o raio do círculo: ");
 		double raio = scan.nextDouble();
 		
-		double area = Math.PI*Math.pow(raio, 2);
+		double area = Math.PI * Math.pow(raio, 2);
 		System.out.println("A área do círculo é: " + area);
 
 	}
